@@ -1,2 +1,2 @@
 # H-seyin
-kodluycaz inşallah
+Phyton
